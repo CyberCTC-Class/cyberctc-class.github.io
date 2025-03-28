@@ -11,7 +11,7 @@
 
 <p>This is the CTC Cyber Security Website</p>
 
-<p>Let's see what happens</p>
+<p>This page is the github repository for the site, allowing for the students to keep the site updated at all times, and allowing for a free hosting for the website. </p>
 
 </body>
 </html>
